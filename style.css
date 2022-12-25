@@ -82,6 +82,11 @@ li {
     cursor: pointer;
 }
 
+.btn_submit:hover {
+    background-color: white;
+    color: hsl(25, 97%, 53%);
+}
+
 .box1 li  {
     text-align: center;   
 }
@@ -105,8 +110,8 @@ li {
 
 .box1 .result {
     text-align: center;
-    color: hsl(213deg 19% 25%);
-    background-color: hsl(216deg 12% 8%);
+    color: hsl(25, 100%,50%);
+    background-color: hsl(213deg 19% 25%);
     padding: 5px 15px;
     border-radius: 30px;
 }
